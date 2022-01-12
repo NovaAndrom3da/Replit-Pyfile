@@ -16,6 +16,6 @@ First, fork the project on [Replit](https://replit.com/@Froggo8311/Replit-Pyfile
    - `packages` - The required modules (in python list form), such as `pygame` or `arcade`.
 
 ## How is it licensed?
-It is licensed under (GPLv3)[https://github.com/Froggo8311/Replit-Pyfile/blob/main/docs/LICENSE.md].
+It is licensed under [GPLv3](https://github.com/Froggo8311/Replit-Pyfile/blob/main/docs/LICENSE.md).
 
 Copyright © 2022 Froggo
