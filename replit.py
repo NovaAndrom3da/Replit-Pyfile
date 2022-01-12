@@ -1,12 +1,23 @@
+# This software is licensed under the GPLv3 license. It can be found in docs/LICENSE.md
+# Copyright 2022 Froggo
+
+
+
+
+
 ### Configuration
 ## [CONFIG] Debug
 debug = False
 update_pip = False
 
 ## [CONFIG] Program
-program_d = "Replit-Pyfile"              # program directory from in /home/runner/
-program_f = "test_script.py"   # program file from in /home/runner/[program_f]/
-packages = ["pygame", "arcade"] #all modules you need installed
+program_d = "Replit-Pyfile"        # program directory from in /home/runner/
+program_f = "test_script.py"       # program file from in /home/runner/[program_f]/
+packages = ["pygame", "arcade"]    # all modules you need installed
+
+
+
+
 
 
 ### Autoupgrade & Run
