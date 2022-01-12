@@ -16,6 +16,19 @@ First, fork the project on [Replit](https://replit.com/@Froggo8311/Replit-Pyfile
    - `packages` - The required modules (in python list form), such as `pygame` or `arcade`.
 
 ## How is it licensed?
-It is licensed under [GPLv3](https://github.com/Froggo8311/Replit-Pyfile/blob/main/docs/LICENSE.md).
-
 Copyright © 2022 Froggo
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+The license can be found under [docs/LICENSE.md](https://github.com/Froggo8311/Replit-Pyfile/blob/main/docs/LICENSE.md).
